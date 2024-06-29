@@ -36,9 +36,7 @@ If there are 4 consecutive unsuccessful submissions, the script will change the 
 
 - If a bad proxy is encountered, the script will select a new proxy and retry.
 
-## Screenshots
-![image](https://github.com/0MeMo07/NGL-Spammer/assets/103096364/edba601d-7367-413c-94b5-44cb26b98759)
-
 ## Support me
 
-<a href="https://www.buymeacoffee.com/SmakeMeMo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee">
+ <a href="https://discord.com/users/705665813994012695" rel="nofollow" target="_blank">
+          <img id="profileImage" src="https://lanyard-profile-readme.vercel.app/api/820870532219142164?theme=dark&amp;bg=00000000&amp;hideDiscrim=true&amp;idleMessage=%20real homies never snitch" alt="Profile Image">
