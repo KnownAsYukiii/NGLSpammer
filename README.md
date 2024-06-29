@@ -38,5 +38,3 @@ If there are 4 consecutive unsuccessful submissions, the script will change the 
 
 ## Support me
 
- <a href="https://discord.com/users/705665813994012695" rel="nofollow" target="_blank">
-          <img id="profileImage" src="https://lanyard-profile-readme.vercel.app/api/820870532219142164?theme=dark&amp;bg=00000000&amp;hideDiscrim=true&amp;idleMessage=%20real homies never snitch" alt="Profile Image">
